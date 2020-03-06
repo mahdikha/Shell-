@@ -1,0 +1,26 @@
+date d'aujourdhui : 
+2020-03-06
+l'heure : 
+08:50
+
+nombre des lignes dans le dossier meminfo:
+51 /proc/meminfo
+
+
+total:
+MemTotal:        8070116 kB
+SwapTotal:       2047996 kB
+VmallocTotal:   34359738367 kB
+HugePages_Total:       0
+
+free :
+MemFree:         6018080 kB
+SwapFree:        2047996 kB
+HugePages_Free:        0
+
+
+les informations les plus importantes sont : 
+MemTotal:        8070116 kB
+MemFree:         6018080 kB
+MemAvailable:    6539272 kB
+Buffers:           75372 kB
